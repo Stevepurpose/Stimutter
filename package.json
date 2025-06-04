@@ -1,0 +1,24 @@
+{
+  "name": "stimutter",
+  "version": "0.1.0-alpha.1",
+  "description": "Built using the `Node.js` `EventEmitter` from the `events` module",
+  "main": "index.js",
+  "files": ["index.js", "src/event-store.js", "src/usestore.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+
+  "dependencies": {
+    "events": "^3.3.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  }
+
+
+}
