@@ -1,6 +1,6 @@
 {
   "name": "stimutter",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "description": "Built using the `Node.js` `EventEmitter` from the `events` module",
   "main": "index.js",
   "files": ["index.js", "src/event-store.js", "src/usestore.js"],

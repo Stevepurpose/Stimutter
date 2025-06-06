@@ -31,6 +31,11 @@ It unsubscribes from the store when the component unmounts to prevent memory lea
 ## Use Cases
 Now going to explore some use cases using different frameworks. This is generally going to look at user code.
 
+**Installation**
+```bash
+npm install stimutter@alpha
+```
+
 ### How To Use (JavaScript)
 
 `stimutter` can be used in JavaScript environments, both in `Node.js` for server-side applications and in browsers with `HTML` for client-side interfaces. Below are two common use cases: basic state management in `Node.js` and interactive state management in a browser with `HTML`.
